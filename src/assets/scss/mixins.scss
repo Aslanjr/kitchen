@@ -1,0 +1,11 @@
+@mixin Flex($wrap,$content){
+    display: flex;
+    flex-wrap: $wrap;
+    justify-content: $content;
+}
+@mixin Text($size,$bold,$color,$letter){
+    font-size: $size;
+    font-weight: $bold;
+    color:$color;
+    letter-spacing: $letter;
+}
