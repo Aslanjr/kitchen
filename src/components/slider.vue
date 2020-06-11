@@ -70,7 +70,7 @@ export default {
 @import '../assets/scss/mixins.scss';
 
     .slider{
-        background: url('https://diefinnhutte.qodeinteractive.com/wp-content/uploads/2018/11/black-home-parallax-1.jpg') no-repeat;
+        background: url('../assets/Img/black-home-parallax-1.jpg') no-repeat;
         background-size: cover;
         background-attachment: fixed;
         display: flex;

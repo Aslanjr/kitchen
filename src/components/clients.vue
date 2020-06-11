@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="clients__item">
-                <img src="https://diefinnhutte.qodeinteractive.com/wp-content/uploads/2018/11/black-home-img.png" alt="">
+                <img src="../assets/Img/black-home-img.png"  alt="">
             </div>
         </div>
     </div>

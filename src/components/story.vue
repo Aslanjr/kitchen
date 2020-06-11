@@ -23,10 +23,10 @@
         </div>
         <div class="img story__item">
             <div class="img__content">
-                <img src="https://diefinnhutte.qodeinteractive.com/wp-content/uploads/2018/11/black-home-img-2.jpg" class="img__item" alt="">
+                <img src="../assets//Img/Story/black-home-img-2.jpg" class="img__item" alt="">
             </div>
             <div class="img__content">
-                <img src="https://diefinnhutte.qodeinteractive.com/wp-content/uploads/2018/11/black-home-img-3.jpg" class="img__item" alt="">
+                <img src="../assets//Img/Story/black-home-img-3.jpg" class="img__item" alt="">
             </div>
         </div>
     </div>
