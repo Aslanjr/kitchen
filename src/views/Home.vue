@@ -9,6 +9,7 @@
         <Info/>
         <Inspiration/>
         <Team/>
+        <Footer/>
     </div>
 </template>
 <script>
@@ -22,6 +23,7 @@ import Story        from '../components/story'
 import Info         from '../components/info'
 import Inspiration  from '../components/inspiration'
 import Team         from '../components/team'
+import Footer       from '../components/footer'
 
 export default {
     name:'App',
@@ -39,7 +41,8 @@ export default {
         Story,
         Info,
         Inspiration,
-        Team
+        Team,
+        Footer
     }
 
 }
