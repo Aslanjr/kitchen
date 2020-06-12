@@ -70,7 +70,6 @@ export default {
 </script>
 <style lang="scss">
 @import '../assets/scss/mixins.scss';
-
     .story{
         background: #171717;
         color:#fff;

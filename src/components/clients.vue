@@ -77,7 +77,7 @@ export default {
         }
         &__text{
             flex-basis: 75%;
-            @include Text(21px,500,rgb(160, 160, 160),0.02em);
+            @include Text(18px,500,rgb(160, 160, 160),0.02em);
         }
         
     }
